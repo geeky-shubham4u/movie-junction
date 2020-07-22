@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movie-junction/static/css/main.d341920c.chunk.css",
-    "main.js": "/movie-junction/static/js/main.a3aa226b.chunk.js",
-    "main.js.map": "/movie-junction/static/js/main.a3aa226b.chunk.js.map",
+    "main.js": "/movie-junction/static/js/main.a952cb0c.chunk.js",
+    "main.js.map": "/movie-junction/static/js/main.a952cb0c.chunk.js.map",
     "runtime-main.js": "/movie-junction/static/js/runtime-main.4328e132.js",
     "runtime-main.js.map": "/movie-junction/static/js/runtime-main.4328e132.js.map",
     "static/js/2.9fac41ab.chunk.js": "/movie-junction/static/js/2.9fac41ab.chunk.js",
     "static/js/2.9fac41ab.chunk.js.map": "/movie-junction/static/js/2.9fac41ab.chunk.js.map",
     "index.html": "/movie-junction/index.html",
-    "precache-manifest.89099d9217acc57f0405d37a4c747b84.js": "/movie-junction/precache-manifest.89099d9217acc57f0405d37a4c747b84.js",
+    "precache-manifest.3da2da11d1fbcd19f8d2d8cf19c2f9af.js": "/movie-junction/precache-manifest.3da2da11d1fbcd19f8d2d8cf19c2f9af.js",
     "service-worker.js": "/movie-junction/service-worker.js",
     "static/css/main.d341920c.chunk.css.map": "/movie-junction/static/css/main.d341920c.chunk.css.map",
     "static/js/2.9fac41ab.chunk.js.LICENSE.txt": "/movie-junction/static/js/2.9fac41ab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4328e132.js",
     "static/js/2.9fac41ab.chunk.js",
     "static/css/main.d341920c.chunk.css",
-    "static/js/main.a3aa226b.chunk.js"
+    "static/js/main.a952cb0c.chunk.js"
   ]
 }
